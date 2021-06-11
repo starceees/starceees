@@ -5,7 +5,7 @@ The Kalman Filter is a derived from the Family of Gaussian Filters which was inv
 time t, the belief is represented by the the mean μt and the covariance Σt.*\
 \
 GAUSSIAN POSTERIOR Posteriors are Gaussian if the following three properties hold, in addition tothe Markov assumptions of the Bayes filter.\
-![Kalman Filter Algorithm](/home/raghu/KF/algo.png)
+![Kalman Filter Algorithm](https://drive.google.com/file/d/1V8nkJB-lmgGgiRqVAWjD7OIEN7FuCT9E/view?usp=sharing)
 
 
 \ ~~~
