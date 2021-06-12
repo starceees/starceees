@@ -34,7 +34,7 @@ GAUSSIAN POSTERIOR Posteriors are Gaussian if the following three properties hol
 \
 ![Kalman Filter Algorithm](https://github.com/starceees/starceees/blob/main/KF/algorithm.jpg)
 
-\ ~~~
+\
 <span style="color:lightblue">
 ## Instance Variables
 
@@ -60,9 +60,9 @@ control transition matrix
 * **alpha** : float\
 Assign a value > 1.0 to turn this into a fading memory filter.\
 </span>
-~~~
-~~~
+
 <span style ="color:pink">
+
 ## Read-only Instance Variables
 
 * **K** : ndarray
@@ -76,7 +76,7 @@ Likelihood of last measurment update.\
 log_likelihood : float\
 Log likelihood of last measurment update.
 </span>
-~~~
+<pre><code>
 import numpy as np
 from numpy.linalg import inv
 
@@ -150,4 +150,4 @@ for data in z[1:]:
     P = (np.identity(len(K)) - K.dot(H)).dot(P)
 print("Expected postion and velocity of the aircraft the the current time")
 print("Kalman Filter State Matrix:\n", X)
-~~~
+</code></pre>
