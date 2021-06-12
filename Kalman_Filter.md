@@ -76,7 +76,12 @@ Likelihood of last measurment update.\
 log_likelihood : float\
 Log likelihood of last measurment update.
 </span>
+<<<<<<< HEAD
 <pre><code>
+=======
+~~~
+'''python
+>>>>>>> 3bbc89643a1da2d1fb5e62db6b37680a6e4cdf39
 import numpy as np
 from numpy.linalg import inv
 
@@ -150,4 +155,8 @@ for data in z[1:]:
     P = (np.identity(len(K)) - K.dot(H)).dot(P)
 print("Expected postion and velocity of the aircraft the the current time")
 print("Kalman Filter State Matrix:\n", X)
+<<<<<<< HEAD
 </code></pre>
+=======
+'''
+>>>>>>> 3bbc89643a1da2d1fb5e62db6b37680a6e4cdf39
