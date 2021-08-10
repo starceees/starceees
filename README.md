@@ -15,8 +15,6 @@ You can click the Preview link to take a look at your changes.
  <a href="mailto:raghuram2309@gmail.com"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-<br />
-
 ## 🧰 Languages:
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
