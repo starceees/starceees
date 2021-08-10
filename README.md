@@ -1,4 +1,6 @@
-![intro](https://github.com/starceees/starceees/blob/main/Animated%20GIF-original.mp4)
+<p align = "center">
+<img src = "https://media.giphy.com/media/ftKY6KT7eG9l9HmO7P/giphy.gif" alt = "intro" width = " 450" height = "300"/>
+</p>
 - 👋 Hi, I’m @starceees
 - 👀 I’m interested in Robotics, Computer Vision and Signal Processing
 - 🌱 I’m currently learning Pose estimation in robotics.
