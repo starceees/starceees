@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## ✉️ Find me on:
-
-
 <p align="left">
  <a href="https://in.linkedin.com/in/raghuram-c-s-902a76181" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:raghuram2309@gmail.com"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
