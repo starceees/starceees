@@ -1,10 +1,10 @@
 <p align = "center">
-<img src = "https://media.giphy.com/media/ftKY6KT7eG9l9HmO7P/giphy.gif" alt = "intro" width = " 450" height = "300"/>
+<img src = "https://media.giphy.com/media/M32UEdQ7TQJdivzgrV/giphy.gif" alt = "intro" />
 </p>
-- 👋 Hi, I’m @starceees
-- 👀 I’m interested in Robotics, Computer Vision and Signal Processing
-- 🌱 I’m currently learning Pose estimation in robotics.
-- 💞️ I’m looking to collaborate on Underwater Robotics.
+- 👋 Hi, I’m @starceees <br>
+- 👀 I’m interested in Robotics, Computer Vision and Signal Processing <br>
+- 🌱 I’m currently learning Pose estimation in robotics. <br>
+- 💞️ I’m looking to collaborate on Underwater Robotics. <br>
 - 📫 How to reach me raghuram2309@gmail.com
 
 <!---
