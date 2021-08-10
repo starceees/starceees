@@ -1,3 +1,4 @@
+![intro](https://github.com/starceees/starceees/blob/main/Animated%20GIF-original.mp4)
 - 👋 Hi, I’m @starceees
 - 👀 I’m interested in Robotics, Computer Vision and Signal Processing
 - 🌱 I’m currently learning Pose estimation in robotics.
