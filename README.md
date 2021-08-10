@@ -1,5 +1,5 @@
 <p align = "center">
-<img src = "https://media.giphy.com/media/M32UEdQ7TQJdivzgrV/giphy.gif" alt = "intro" />
+<img src = "https://github.com/starceees/starceees/blob/main/Animated%20GIF-downsized.gif" alt = "intro" width = "1000" height = "300" />
 </p>
 - 👋 Hi, I’m @starceees <br>
 - 👀 I’m interested in Robotics, Computer Vision and Signal Processing <br>
