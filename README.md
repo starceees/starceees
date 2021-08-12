@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
  
-<img src="https://lh3.googleusercontent.com/proxy/dDCl4kw9nVgZqlnQpZ0MP8lkS2Opx63EIiu-hDU5IK4GcTA1MKbwFT2OAXk8NGxCdAdLuR7FZE-ZiOE09_ykja5SHQZITBiZcfKggSq2umebM8DBvg" alt="ROS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/starceees/starceees/blob/main/ros_logo.png" alt="ROS" height="40" style="vertical-align:top; margin:4px">
  
 </p>
 
