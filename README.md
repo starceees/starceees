@@ -43,4 +43,4 @@ You can click the Preview link to take a look at your changes.
  
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=starceees&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=starceees&theme=tokyonight)
