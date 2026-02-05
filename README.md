@@ -36,9 +36,13 @@ Hey! I'm a passionate engineer and researcher working at the intersection of **R
   Enhanced MR image reconstruction using model-based and UNet-based approaches.
 
 ### 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=starceees&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=F0DB4F&text_color=ffffff)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=starceees&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0DB4F&count_private=true" alt="GitHub Stats" height="180px"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=starceees&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=F0DB4F&currStreakLabel=F0DB4F" alt="GitHub Streak" height="180px"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=starceees&theme=transparent&hide_border=true&ring=58A6FF&fire=F0DB4F&currStreakLabel=F0DB4F)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=starceees&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starceees&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true" alt="Top Languages" height="180px"/>
+</p>
 
